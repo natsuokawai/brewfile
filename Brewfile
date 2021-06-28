@@ -6,6 +6,7 @@ cask "1password"
 cask "google-japanese-ime"
 cask "slack"
 cask "discord"
+cask "gitify"
 
 brew "vim"
 brew "tmux"
