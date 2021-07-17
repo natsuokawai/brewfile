@@ -9,13 +9,15 @@ cask "slack"
 cask "discord"
 cask "gitify"
 
+cask homebrew/cask-fonts/font-fira-code-nerd-font
+
 brew "vim"
 brew "tmux"
 cask "rubymine"
 cask "visual-studio-code"
 
-brew "rbenv"
 cask "docker"
+brew "rbenv"
 
 brew "ripgrep"
 brew "fd"
@@ -26,5 +28,4 @@ brew "exa"
 brew "tldr"
 brew "jq"
 brew "awscli"
-
-cask homebrew/cask-fonts/font-fira-code-nerd-font
+brew "htop"
