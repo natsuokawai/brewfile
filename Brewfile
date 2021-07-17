@@ -1,4 +1,5 @@
 tap "homebrew/cask"
+tap homebrew/cask-fonts
 cask_args appdir: "~/Applications"
 
 cask "google-chrome"
@@ -25,3 +26,5 @@ brew "exa"
 brew "tldr"
 brew "jq"
 brew "awscli"
+
+cask homebrew/cask-fonts/font-fira-code-nerd-font
