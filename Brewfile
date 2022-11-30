@@ -13,7 +13,7 @@ cask "homebrew/cask-fonts/font-fira-code-nerd-font"
 brew "neovim"
 brew "tmux"
 cask "docker"
-brew "node"
+brew "asdf"
 
 brew "ripgrep"
 brew "fd"
